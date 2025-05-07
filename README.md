@@ -1,7 +1,3 @@
-# Water---Browse
-This is a simple search engine which shows the search result using Bing.
-It is an HTML Code, run it using browser.
-Code:
 <!DOCTYPE html>
 <html lang="en">
 <head>
